@@ -4,11 +4,5 @@
 #xhofe/alist:latest
 #infiniflow/ragflow:v0.20.1
 infiniflow/infinity:latest
-elasticsearch:latest
-mysql:latest
-postgres:latest
-redis:latest
-valkey/valkey:latest
-minio/minio:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
