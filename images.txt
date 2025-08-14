@@ -9,6 +9,6 @@ mysql:latest
 postgres:latest
 redis:latest
 valkey/valkey:latest
-minio/minio
+minio/minio:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
